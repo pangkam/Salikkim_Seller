@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/product_edit"
+        android:icon="@drawable/baseline_edit"
+        android:title="Edit product" />
+    <item
+        android:id="@+id/product_change_address"
+        android:icon="@drawable/ic_delete"
+        android:title="Change Addresses" />
+    <item
+        android:id="@+id/product_edit_image"
+        android:icon="@drawable/ic_delete"
+        android:title="Edit images" />
+
+    <item
+        android:id="@+id/product_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete" />
+
+</menu>

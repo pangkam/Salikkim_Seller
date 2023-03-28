@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/order_contact"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="Contact customer" />
+    <item
+        android:id="@+id/order_screenshot"
+        android:icon="@drawable/ic_action"
+        android:title="Screenshot" />
+    <item
+        android:id="@+id/order_action"
+        android:icon="@drawable/ic_action"
+        android:title="Set status" />
+
+    <item
+        android:id="@+id/order_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete" />
+
+</menu>
